@@ -1,0 +1,39 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px -2px;
+    background-color:transparent;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  /* .navbar:hover{
+    transform: scale(1.01); */
+
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px; 
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    margin-right: 100%;
+  }
+  
+  .profile-pic {
+    height: 40px; 
+    margin-right: 10px;
+  }
+  
+  .home-page {
+    padding: 20px;
+  }
+  
+
+  
